@@ -20,4 +20,3 @@ elif score >= 50:
      print("คุณได้เกรดD")
 elif score < 50:
      print("คุณได้เกรดF")
-
